@@ -1,4 +1,4 @@
-package com.amitshekhar.tflite;
+package com.tistory.dayglo;
 
 import org.junit.Test;
 
